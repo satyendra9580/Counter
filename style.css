@@ -1,0 +1,53 @@
+.h1{
+    font-size: 4rem;
+    margin-top: 200px;
+    margin-left: 570px;
+    color: white;
+}
+#value{
+    font-size: 5rem;
+    margin-left: 650px;
+    color: violet;
+}
+.button-container{
+    margin-left: 540px;
+    margin-top: 50px;
+}
+#button-decrease{
+    padding: 10px 20px;
+    font-size: 20px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: aqua;
+}
+#button-reset{
+    padding: 10px 20px;
+    font-size: 20px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: aqua;
+}
+#button-increase{
+    padding: 10px 20px;
+    font-size: 20px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: aqua;
+}
+#button-decrease:hover{
+    cursor: pointer;
+}
+#button-reset:hover{
+    cursor: pointer;
+}
+#button-increase{
+    cursor: pointer;
+}
+body{
+    background-color: rgb(8, 8, 57);
+}
+.counter1{
+    margin-left: 1100px;
+    margin-top: -400px;
+
+}
