@@ -51,3 +51,47 @@ body{
     margin-top: -400px;
 
 }
+@media(max-width:600px){
+    .h1{
+        font-size: 3rem;
+        margin-top: 201px;
+        margin-left: 90px;
+        color: white;
+    }
+    #value{
+        font-size: 3.5rem;
+        margin-left: 160px;
+        color: violet;
+    }
+    .button-container{
+        margin-left: 70px;
+        margin-top: 40px;
+    }
+
+    #button-decrease{
+        padding: 7px 10px;
+        font-size: 15px;
+        border: 3px solid black;
+        border-radius: 10px;
+        background-color: aqua;
+    }
+    #button-reset{
+        padding: 7px 10px;
+        font-size: 15px;
+        border: 3px solid black;
+        border-radius: 10px;
+        background-color: aqua;
+    }
+    #button-increase{
+        padding: 7px 10px;
+        font-size: 15px;
+        border: 3px solid black;
+        border-radius: 10px;
+        background-color: aqua;
+    }
+    .counter1{
+        margin-left: 50px;
+        margin-top: 100px;
+    
+    }
+}
